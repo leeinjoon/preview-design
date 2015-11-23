@@ -1,0 +1,11 @@
+body {
+    opacity: 0;
+	margin:0;
+    padding:0;
+	text-align:center;
+    background:url(../img/loader.gif) no-repeat center 100px;
+}
+img {
+    opacity: 0;
+    visibility: hidden;
+}
